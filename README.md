@@ -1,2 +1,3 @@
 # hello-world-2
-Refresher on GitHub startup guide
+The quick brown fox jumped over the lazy dog.
+
